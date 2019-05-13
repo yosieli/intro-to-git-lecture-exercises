@@ -4,19 +4,16 @@
 
 | Name         | Favorite Food |
 | ------------ | ------------- |
-| Maruf        |               |
 | Roy          | Anything Free |
 | Maruf        |   Korean BBQ            |
-| Roy          |               |
 | Stefan Sce.  | Ramen         |
 | Stefan Stro. |               |
 | Patrick      |               |
+| Hermann      |     Pizza     |
 | Hans         |     tacos     |
 | Hermann      |               |
 | Ariq         |     Burgers   |
 | Carlos       |     Pizza     |
-| Ariq         |               |
-| Carlos       |               |
 | Kurtis       |     Pizza     |
 | Jason        |   sushi       |
 | Rebecca      |               |
