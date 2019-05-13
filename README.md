@@ -11,6 +11,8 @@
 | Patrick      |               |
 | Hans         |               |
 | Hermann      |               |
+| Ariq         |     Burgers   |
+| Carlos       |     Pizza     |
 | Ariq         |               |
 | Carlos       |               |
 | Kurtis       |     Pizza     |
