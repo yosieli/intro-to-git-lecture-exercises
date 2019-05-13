@@ -3,7 +3,7 @@
 
 | Name         | Favorite Food |
 | ------------ | ------------- |
-| Maruf        |               |
+| Maruf        |   Korean BBQ            |
 | Roy          |               |
 | Stefan Sce.  |               |
 | Stefan Stro. |               |
