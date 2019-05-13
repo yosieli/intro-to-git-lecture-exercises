@@ -9,7 +9,7 @@
 | Stefan Stro. |               |
 | Patrick      |               |
 | Hans         |               |
-| Hermann      |               |
+| Hermann      |     Pizza     |
 | Ariq         |               |
 | Carlos       |               |
 | Kurtis       |               |
