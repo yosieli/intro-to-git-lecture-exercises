@@ -11,7 +11,7 @@
 | Stefan Sce.  | Ramen         |
 | Stefan Stro. |               |
 | Patrick      |               |
-| Hans         |               |
+| Hans         |     tacos     |
 | Hermann      |               |
 | Ariq         |     Burgers   |
 | Carlos       |     Pizza     |
