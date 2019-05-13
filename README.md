@@ -4,7 +4,7 @@
 
 | Name         | Favorite Food |
 | ------------ | ------------- |
-| Maruf        |               |
+| Maruf        |   Korean BBQ            |
 | Roy          |               |
 | Stefan Sce.  | Ramen         |
 | Stefan Stro. |               |
@@ -17,5 +17,5 @@
 | Jason        |               |
 | Rebecca      |               |
 | Feven        |               |
-| Marrio       |               |
-| Joshua       | Pasta/Tacos   |
+| Marrio       |  tacos  |
+| Joshua       |  Pasta/Tacos  |
