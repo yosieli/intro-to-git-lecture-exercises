@@ -12,8 +12,8 @@
 | Hans         |               |
 | Hermann      |               |
 | Ariq         |               |
-| Carlos       |     Pizza     |
-| Kurtis       |               |
+| Carlos       |               |
+| Kurtis       |     Pizza     |
 | Jason        |   sushi       |
 | Rebecca      |               |
 | Feven        |               |
