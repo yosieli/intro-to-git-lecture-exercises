@@ -4,6 +4,8 @@
 
 | Name         | Favorite Food |
 | ------------ | ------------- |
+| Maruf        |               |
+| Roy          | Anything Free |
 | Maruf        |   Korean BBQ            |
 | Roy          |               |
 | Stefan Sce.  | Ramen         |
