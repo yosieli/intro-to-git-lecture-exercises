@@ -1,11 +1,12 @@
-# Intro to Git 
+# Intro to Git
+
 ### Self Assessment
 
 | Name         | Favorite Food |
 | ------------ | ------------- |
-| Maruf        |               |
+| Maruf        |   Korean BBQ            |
 | Roy          |               |
-| Stefan Sce.  |               |
+| Stefan Sce.  | Ramen         |
 | Stefan Stro. |               |
 | Patrick      |               |
 | Hans         |               |
@@ -13,8 +14,8 @@
 | Ariq         |               |
 | Carlos       |               |
 | Kurtis       |     Pizza     |
-| Jason        |               |
+| Jason        |   sushi       |
 | Rebecca      |               |
 | Feven        |               |
-| Marrio       |               |
+| Marrio       |  tacos  |
 | Joshua       |  Pasta/Tacos  |
