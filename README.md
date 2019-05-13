@@ -10,7 +10,7 @@
 | Patrick      |               |
 | Hans         |               |
 | Hermann      |               |
-| Ariq         |    Burgers    |
+| Ariq         |     Burgers   |
 | Carlos       |               |
 | Kurtis       |               |
 | Jason        |               |
