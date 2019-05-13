@@ -8,7 +8,7 @@
 | Stefan Sce.  |               |
 | Stefan Stro. |               |
 | Patrick      |               |
-| Hans         |               |
+| Hans         |     tacos     |
 | Hermann      |               |
 | Ariq         |               |
 | Carlos       |               |
