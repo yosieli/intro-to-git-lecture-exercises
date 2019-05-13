@@ -11,7 +11,7 @@
 | Hans         |               |
 | Hermann      |               |
 | Ariq         |               |
-| Carlos       |               |
+| Carlos       |     Pizza     |
 | Kurtis       |               |
 | Jason        |               |
 | Rebecca      |               |
