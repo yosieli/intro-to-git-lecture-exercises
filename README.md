@@ -12,7 +12,7 @@
 | Hermann      |               |
 | Ariq         |               |
 | Carlos       |               |
-| Kurtis       |               |
+| Kurtis       |     Pizza     |
 | Jason        |               |
 | Rebecca      |               |
 | Feven        |               |
