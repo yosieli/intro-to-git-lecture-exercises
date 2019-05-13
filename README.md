@@ -13,7 +13,9 @@
 | Hermann      |               |
 | Ariq         |     Burgers   |
 | Carlos       |     Pizza     |
-| Kurtis       |               |
+| Ariq         |               |
+| Carlos       |               |
+| Kurtis       |     Pizza     |
 | Jason        |   sushi       |
 | Rebecca      |               |
 | Feven        |               |
