@@ -1,11 +1,12 @@
-# Intro to Git 
+# Intro to Git
+
 ### Self Assessment
 
 | Name         | Favorite Food |
 | ------------ | ------------- |
 | Maruf        |               |
 | Roy          |               |
-| Stefan Sce.  |               |
+| Stefan Sce.  | Ramen         |
 | Stefan Stro. |               |
 | Patrick      |               |
 | Hans         |               |
@@ -17,4 +18,4 @@
 | Rebecca      |               |
 | Feven        |               |
 | Marrio       |               |
-| Joshua       |  Pasta/Tacos  |
+| Joshua       | Pasta/Tacos   |
